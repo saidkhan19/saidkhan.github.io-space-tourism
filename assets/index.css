@@ -285,7 +285,7 @@ select {
     display: none;
 }
 
-@media (max-width: 35rem) {
+@media (max-width: 34.999rem) {
     .primary-navigation {
         --underline-gap: .5rem;
         position: fixed;
@@ -628,7 +628,7 @@ body {
     grid-area: content;
 }
 
-@media (max-width: 45em) {
+@media (max-width: 44.999em) {
     .grid-container--technology > picture {
         margin-inline: -1rem;
     }
@@ -733,7 +733,6 @@ body {
         --gap: 2rem;
         flex-direction: column;
         width: 4rem;
-        /* align-content: space-between; */
     }
 
     .grid-container--technology > picture {
