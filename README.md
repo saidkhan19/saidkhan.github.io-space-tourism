@@ -26,4 +26,4 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/saidkhan19)
+- Frontend Mentor - [@saidkhan19](https://www.frontendmentor.io/profile/saidkhan19)
