@@ -217,6 +217,8 @@ select {
     place-items: center;
     border-radius: 50%;
     text-decoration: none;
+    
+    -webkit-tap-highlight-color: transparent;
 }
 
 .large-button::after {
